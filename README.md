@@ -13,9 +13,8 @@ https://gameprogrammingpatterns.com/state.html<br>
 https://en.wikipedia.org/wiki/State_pattern<br>
 
 # project
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/7e03bf15-318e-4971-a353-9275595d4cd1" /><br>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b988ce14-df3a-48d6-8423-d156ed6df7a9" /><br>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/c7b48c1f-5630-429b-b869-f61f059c675c" /><br>
+
+<img src="state.gif" alt="example" width="500" />
 
 the game changes the player color for each state applied (idle, walk and run)!
 
