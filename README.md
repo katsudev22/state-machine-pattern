@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/State_pattern<br>
 
 <img src="state.gif" alt="example" width="500" />
 
-the game changes the player color for each state applied (idle, walk and run)!
+the game changes the player color and also increases or decreases their speed for each state applied (idle, walk and run)!
 
 # controls
 <kbd> WASD </kbd> movement<br>
